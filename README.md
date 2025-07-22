@@ -1,16 +1,24 @@
-## Hi there 👋
+# $NANONOSE - The Meme Bot That Sniffs Out Moonshots 🚀👃
 
-<!--
-**NANONOSE/Nanonose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official GitHub repository for the $NANONOSE token on the Solana blockchain.
 
-Here are some ideas to get you started:
+NANONOSE is the ultimate scent-tracking meme bot from the future, sniffing out the next moonshot. Born in Elon’s abandoned lab, this coin is powered by the community, fueled by memes, and designed to detect hype before it happens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Token Details
+- **Name:** NANONOSE
+- **Symbol:** NANONOSE
+- **Mint Address:** At8qW8vS4ReAkWUqhcgF4AsGmbUfrR4AaR7H6gtng1hj
+- **Decimals:** 9
+- **Network:** Solana Mainnet
+
+## 📁 Files
+- `logo.png`: Token logo (256x256)
+- `token_metadata.json`: Metaplex-compatible metadata file for on-chain listing
+
+## 🌐 Official Links
+- [Twitter](https://twitter.com/Nanonose_)
+- [Telegram](https://t.me/YOUR_TELEGRAM_LINK)
+- [Swap on Jupiter](https://jup.ag/swap/SOL-NANONOSE)
+
+## 🧪 Powered by Community, Memes, and Precision Tracking
+Follow the nose... it knows. 👃💸
